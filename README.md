@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2017<br>📚 I'm currently learning Rust & Bash<br>🎯 Goals: Ship Undercurrent & Project Mickado <br>🎲 Fun fact about C: The C Language was not called C at the beginning. It was first known as New B as it was an improved version of the B programming language. As C comes next to B in the English alphabet, it was renamed C later before its release.</p>
+<p align="center">✨ Creating bugs since 2017<br>📚 I'm currently learning everything<br>🎯 Goals: Ship Undercurrent<br>🎲 Fun fact about C: The C Language was not called C at the beginning. It was first known as New B as it was an improved version of the B programming language. As C comes next to B in the English alphabet, it was renamed C later before its release.</p>
 
 ###
 
